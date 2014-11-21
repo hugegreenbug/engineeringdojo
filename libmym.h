@@ -1,0 +1,1 @@
+double newtan(double x);

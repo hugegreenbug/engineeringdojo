@@ -1,0 +1,12 @@
+prefix=.
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: libmym
+Description: new tan
+URL: http://www.compphys.de
+Version: 
+Requires:
+Libs: -L${libdir} -lmym
+Libs.private: -lm
+Cflags: -I${includedir}

@@ -1,0 +1,21 @@
+Start testing: Nov 20 20:32 MST
+----------------------------------------------------------
+1/1 Testing: Test2
+1/1 Test: Test2
+Command: "/home/hugh/Downloads/hugh_ed/tests/mytest" "2"
+Directory: /home/hugh/Downloads/hugh_ed/tests
+"Test2" start time: Nov 20 20:32 MST
+Output:
+----------------------------------------------------------
+-2.185040
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[-2.185040
+]
+"Test2" end time: Nov 20 20:32 MST
+"Test2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 20 20:32 MST
